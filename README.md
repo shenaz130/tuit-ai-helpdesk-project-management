@@ -42,6 +42,12 @@ This repository presents the project management and governance work developed fo
 - ADKAR-based change management strategy
 - Implementation roadmap and accountability framework
 
+### Project Reports
+
+- [Lab 6 — Project Planning, Reporting and Communication](docs/Lab%206.pdf)
+- [Lab 7 — Risk Management, Privacy and Regulatory Compliance](docs/Lab%207.pdf)
+- [Lab 8 — Stakeholder Engagement and Change Management](docs/Lab%208.pdf)
+
 ## Frameworks and Tools
 
 - Monday.com
